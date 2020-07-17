@@ -4,7 +4,7 @@ Create [VoltDB](https://www.voltdb.com) on Azure VM with Ultra Disk
 
 ![A diagram showing the components this script will deploy.](create_voltdb.png 'Solution Architecture')
 
-This script make a VoltDB cluster consisting of two nodes by default.
+This script makes a VoltDB cluster consisting of two nodes by default.
 
 Only you need to do is edit at least two lines of the script, 'AZURE_ACCT' and 'RES_LOC' as you want.
 
