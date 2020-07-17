@@ -12,7 +12,7 @@ After creating the cluster, you need to open tcp/8080 port of one of the nodes i
 
 For more details, please see the settings.txt written by the script after creating.
 
-![A list showing the resrouces.](resources.png 'Resources')
+![Web UI.](Screenshots.png 'Screenshots')
 
 ## Prerequisites
 
